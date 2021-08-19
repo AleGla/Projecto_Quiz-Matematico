@@ -1,0 +1,12 @@
+.modal-backdrop {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.modal-content{
+    zoom: 120%;
+}
+
+body{
+     zoom: 80%;
+}
